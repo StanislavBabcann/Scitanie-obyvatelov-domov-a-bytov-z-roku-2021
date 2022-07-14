@@ -1,0 +1,85 @@
+﻿  main.cpp
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\triedenie\triedenie_nazov.h(58,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\triedenie\triedenie_cislo.h(84,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(367,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(363): message : while compiling class template member function 'int structures::LinkedList<std::string>::getIndexOf(const T &)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(321): message : see reference to function template instantiation 'int structures::LinkedList<std::string>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(38): message : see reference to class template instantiation 'structures::LinkedList<std::string>' being compiled
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\table\sorted_sequence_table.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\table\sorted_sequence_table.h(82): message : while compiling class template member function 'void structures::SortedSequenceTable<std::string,structures::Array<int> *>::insert(const K &,const T &)'
+          with
+          [
+              K=std::string,
+              T=structures::Array<int> *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(228): message : see reference to function template instantiation 'void structures::SortedSequenceTable<std::string,structures::Array<int> *>::insert(const K &,const T &)' being compiled
+          with
+          [
+              K=std::string,
+              T=structures::Array<int> *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(175): message : see reference to class template instantiation 'structures::SortedSequenceTable<std::string,structures::Array<int> *>' being compiled
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\table\sorted_sequence_table.h(98,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\table\sorted_sequence_table.h(96): message : while compiling class template member function 'structures::TableItem<K,T> *structures::SortedSequenceTable<K,T>::findTableItem(const K &)'
+          with
+          [
+              K=std::string,
+              T=structures::Array<int> *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(203,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(183): message : while compiling class template member function 'bool structures::ArrayList<std::string *>::equals(structures::Structure &)'
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\prislusnost.h(35): message : see reference to class template instantiation 'structures::ArrayList<std::string *>' being compiled
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(228,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(220): message : while compiling class template member function 'void structures::ArrayList<std::string *>::add(const T &)'
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\prislusnost.h(43): message : see reference to function template instantiation 'void structures::ArrayList<std::string *>::add(const T &)' being compiled
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(248,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(234): message : while compiling class template member function 'void structures::ArrayList<std::string *>::insert(const T &,int)'
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(271,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(268): message : while compiling class template member function 'T structures::ArrayList<T>::removeAt(int)'
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(262): message : see reference to function template instantiation 'T structures::ArrayList<T>::removeAt(int)' being compiled
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(281,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(279): message : while compiling class template member function 'int structures::ArrayList<std::string *>::getIndexOf(const T &)'
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(258): message : see reference to function template instantiation 'int structures::ArrayList<std::string *>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=std::string *
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(282,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(317,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(309): message : while compiling class template member function 'void structures::ArrayList<std::string *>::enlarge(void)'
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(226): message : see reference to function template instantiation 'void structures::ArrayList<std::string *>::enlarge(void)' being compiled
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\array_list.h(135): message : while compiling class template member function 'structures::ArrayList<std::string *>::ArrayList(void)'
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\prislusnost.h(35): message : see reference to function template instantiation 'structures::ArrayList<std::string *>::ArrayList(void)' being compiled
+  semestralnaPracaAUS.vcxproj -> C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\x64\Debug\semestralnaPracaAUS.exe

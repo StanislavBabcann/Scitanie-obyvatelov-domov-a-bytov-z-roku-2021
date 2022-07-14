@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\structures\vector\vector.cpp">
+      <Filter>structures\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\structure.cpp">
+      <Filter>structures\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\utils.cpp">
+      <Filter>structures\common</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="structures">
+      <UniqueIdentifier>{959d4bd7-e91d-4a05-979e-50002d42265a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\list">
+      <UniqueIdentifier>{9f3b3bce-38b1-419c-8608-e406b8b9afe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\array">
+      <UniqueIdentifier>{46662695-4b19-4bb9-9e4d-25ee77e28f81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\vector">
+      <UniqueIdentifier>{b386583e-e7c4-4fa2-845c-bc7d93d06edf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\common">
+      <UniqueIdentifier>{e5d7186c-a00e-4c12-a41c-6a28ea7b26a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inputReader">
+      <UniqueIdentifier>{cbe2e2ba-5ece-4240-9f48-d2999c51d322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inputData">
+      <UniqueIdentifier>{e2187935-b14c-4dbd-af97-eb6d4d140e3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\table">
+      <UniqueIdentifier>{093b6f89-5f84-4552-9219-1dbf0595f44f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="uzemneJednotky">
+      <UniqueIdentifier>{bb09a8fc-622c-4bcb-b2b4-457b7caebebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bodoveVyhladavanie">
+      <UniqueIdentifier>{21e4ded7-5ae7-4208-a9bc-aa6638bfcd38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="filter">
+      <UniqueIdentifier>{f77cbee0-2afd-4f48-9237-eae2f404a887}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="userInterface">
+      <UniqueIdentifier>{bbdf3181-ce6a-4692-a903-b2d40b9f131f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="triedenie">
+      <UniqueIdentifier>{bf9401ea-77ec-45e8-b45e-84f842d58489}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\structures\list\array_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\list\double_linked_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\list\linked_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\list\list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\array\array.h">
+      <Filter>structures\array</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\vector\vector.h">
+      <Filter>structures\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\data_item.h">
+      <Filter>structures\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\heap_monitor.h">
+      <Filter>structures\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\structure.h">
+      <Filter>structures\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\structure_iterator.h">
+      <Filter>structures\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\types.h">
+      <Filter>structures\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\utils.h">
+      <Filter>structures\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\inputReader\file_reader.h">
+      <Filter>inputReader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\sequence_table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\sorted_sequence_table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uzemneJednotky\kraj.h">
+      <Filter>uzemneJednotky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uzemneJednotky\obec.h">
+      <Filter>uzemneJednotky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uzemneJednotky\slovensko.h">
+      <Filter>uzemneJednotky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\bodoveVyhladavanie\bodove_vyhladavanie.h">
+      <Filter>bodoveVyhladavanie</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\filtrovanie.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\vzdelanie_pocet.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\vzdelanie_podiel.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\iFilter.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\EVS_pocet.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\EVS_podiel.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\vekovaSkupina_pocet.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\vekovaSkupina_podiel.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\userInterface\user_interface.h">
+      <Filter>userInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\typUzemnejJednotky.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\filter\prislusnost.h">
+      <Filter>filter</Filter>
+    </ClInclude>
+    <ClInclude Include="..\triedenie\triedenie_nazov.h">
+      <Filter>triedenie</Filter>
+    </ClInclude>
+    <ClInclude Include="..\triedenie\triedenie_cislo.h">
+      <Filter>triedenie</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uzemneJednotky\okres.h">
+      <Filter>uzemneJednotky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\unsorted_sequence_table.h">
+      <Filter>structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uzemneJednotky\iUzemnaJednotka.h">
+      <Filter>uzemneJednotky</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\inputData\kraje.csv">
+      <Filter>inputData</Filter>
+    </None>
+    <None Include="..\inputData\obce.csv">
+      <Filter>inputData</Filter>
+    </None>
+    <None Include="..\inputData\okresy.csv">
+      <Filter>inputData</Filter>
+    </None>
+    <None Include="..\inputData\vek.csv">
+      <Filter>inputData</Filter>
+    </None>
+    <None Include="..\inputData\vzdelanie.csv">
+      <Filter>inputData</Filter>
+    </None>
+  </ItemGroup>
+</Project>

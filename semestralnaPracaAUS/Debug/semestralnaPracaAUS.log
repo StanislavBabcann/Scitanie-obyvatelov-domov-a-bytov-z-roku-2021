@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(60,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(275,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\uzemneJednotky\okres.h(256,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\bodoveVyhladavanie\bodove_vyhladavanie.h(125,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\bodoveVyhladavanie\bodove_vyhladavanie.h(219,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\bodoveVyhladavanie\bodove_vyhladavanie.h(311,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\bodoveVyhladavanie\bodove_vyhladavanie.h(422,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\filtrovanie.h(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\filtrovanie.h(673,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\filtrovanie.h(687,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\filtrovanie.h(724,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\filtrovanie.h(876,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\filter\filtrovanie.h(1047,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(417,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(411): message : while compiling class template member function 'structures::LinkedListItem<T> *structures::LinkedList<T>::getItemAtIndex(int)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(277): message : see reference to function template instantiation 'structures::LinkedListItem<T> *structures::LinkedList<T>::getItemAtIndex(int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\structures\list\linked_list.h(201): message : while compiling class template member function 'structures::LinkedList<std::string>::LinkedList(void)'
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(38): message : see reference to function template instantiation 'structures::LinkedList<std::string>::LinkedList(void)' being compiled
+C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\inputReader\file_reader.h(38): message : see reference to class template instantiation 'structures::LinkedList<std::string>' being compiled
+  semestralnaPracaAUS.vcxproj -> C:\Users\Stanislav Babčan\Desktop\FRI UNIZA\4.semester\Algoritmy a údajové štruktúry 1\Semestrálna práca\semestralnaPracaAUS\Debug\semestralnaPracaAUS.exe
